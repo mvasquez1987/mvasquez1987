@@ -58,11 +58,11 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=mvasquez1987&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55&show_icons=true&count_private=true" alt="Miguel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mvasquez1987&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55&show_icons=true&cache_seconds=1800" alt="Miguel's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvasquez1987&layout=compact&bg_color=3e7bac&title_color=ffdd55&text_color=ffdd55" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvasquez1987&layout=compact&bg_color=3e7bac&title_color=ffdd55&text_color=ffdd55&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
